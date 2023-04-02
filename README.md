@@ -1,1 +1,2 @@
-# AI-Algorithms
+# AI Algorithms
+some of AI course Algorithms
